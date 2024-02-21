@@ -22,4 +22,4 @@ fi
 cd /home/ec2-user
 
 # Install Python dependencies using pip
-pip install -r requirements.txt
+pip install -r requirements1.txt
