@@ -1,1 +1,1 @@
-sudo systemctl start my_flask_app.service
+sudo systemctl start app.service
