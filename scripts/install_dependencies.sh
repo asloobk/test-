@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo systemctl stop my_flask_app.service
+sudo systemctl stop app.service
 # Install Python and pip using the package manager
 if command -v apt-get &> /dev/null; then
     apt-get update
